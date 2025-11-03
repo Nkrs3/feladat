@@ -1,0 +1,8 @@
+J:\Visual Studio 11.b\cesar_kodolas\cesar_kodolas\bin\Debug\cesar_kodolas.exe.config
+J:\Visual Studio 11.b\cesar_kodolas\cesar_kodolas\bin\Debug\cesar_kodolas.exe
+J:\Visual Studio 11.b\cesar_kodolas\cesar_kodolas\bin\Debug\cesar_kodolas.pdb
+J:\Visual Studio 11.b\cesar_kodolas\cesar_kodolas\obj\Debug\cesar_kodolas.csproj.AssemblyReference.cache
+J:\Visual Studio 11.b\cesar_kodolas\cesar_kodolas\obj\Debug\cesar_kodolas.csproj.CoreCompileInputs.cache
+J:\Visual Studio 11.b\cesar_kodolas\cesar_kodolas\obj\Debug\cesar_kodolas.exe
+J:\Visual Studio 11.b\cesar_kodolas\cesar_kodolas\obj\Debug\cesar_kodolas.pdb
+J:\Visual Studio 11.b\cesar_kodolas\cesar_kodolas\obj\Debug\cesar_kodolas.exe.config
